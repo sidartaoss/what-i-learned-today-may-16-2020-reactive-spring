@@ -20,7 +20,7 @@ Thus, the first hands-on development of the course is performed via Test-Driven 
 
 ### 13. Flux - How it works
 
-In this tutorial, we'll explore about Flux and Mono and its internals via code. My approach to master the Reactor types Flux and Mono is by writing the test cases and learning from it.
+In this tutorial, we'll explore about Flux and Mono and its internals via code. Our approach to master the Reactor types Flux and Mono is by writing the test cases and learning from it.
 
 
 ```
